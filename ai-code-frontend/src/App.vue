@@ -1,11 +1,9 @@
 <script setup lang="ts">
 import BasicLayout from '@/layouts/BasicLayout.vue'
+import { useLoginUserStore } from '@/stores/loginUser.ts'
 
-import { index as healthCheck } from '@/api/healthController'
-
-healthCheck().then((res) => {
-  console.log(res)
-})
+const loginUserStore = useLoginUserStore()
+loginUserStore.fetchLoginUser()
 </script>
 
 <template>
