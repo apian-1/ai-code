@@ -7,7 +7,7 @@ import com.mybatisflex.core.query.QueryWrapper;
 import com.mybatisflex.spring.service.impl.ServiceImpl;
 import com.xigua.xiguaaicode.exception.BusinessException;
 import com.xigua.xiguaaicode.exception.ErrorCode;
-import com.xigua.xiguaaicode.model.dto.UserQueryRequest;
+import com.xigua.xiguaaicode.model.dto.user.UserQueryRequest;
 import com.xigua.xiguaaicode.model.entity.User;
 import com.xigua.xiguaaicode.mapper.UserMapper;
 import com.xigua.xiguaaicode.model.enums.UserRoleEnum;

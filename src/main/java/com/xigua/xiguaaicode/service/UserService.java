@@ -2,7 +2,7 @@ package com.xigua.xiguaaicode.service;
 
 import com.mybatisflex.core.query.QueryWrapper;
 import com.mybatisflex.core.service.IService;
-import com.xigua.xiguaaicode.model.dto.UserQueryRequest;
+import com.xigua.xiguaaicode.model.dto.user.UserQueryRequest;
 import com.xigua.xiguaaicode.model.entity.User;
 import com.xigua.xiguaaicode.model.vo.LoginUserVO;
 import com.xigua.xiguaaicode.model.vo.UserVO;

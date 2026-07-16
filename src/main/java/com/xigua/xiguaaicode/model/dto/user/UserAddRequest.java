@@ -1,4 +1,4 @@
-package com.xigua.xiguaaicode.model.dto;
+package com.xigua.xiguaaicode.model.dto.user;
 
 import lombok.Data;
 

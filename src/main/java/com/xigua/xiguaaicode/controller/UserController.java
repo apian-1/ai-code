@@ -10,7 +10,7 @@ import com.xigua.xiguaaicode.constant.UserConstant;
 import com.xigua.xiguaaicode.exception.BusinessException;
 import com.xigua.xiguaaicode.exception.ErrorCode;
 import com.xigua.xiguaaicode.exception.ThrowUtils;
-import com.xigua.xiguaaicode.model.dto.*;
+import com.xigua.xiguaaicode.model.dto.user.*;
 import com.xigua.xiguaaicode.model.vo.LoginUserVO;
 import com.xigua.xiguaaicode.model.vo.UserVO;
 import jakarta.annotation.Resource;
