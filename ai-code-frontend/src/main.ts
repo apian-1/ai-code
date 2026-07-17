@@ -9,7 +9,6 @@ import 'ant-design-vue/dist/reset.css'
 
 import '@/access'
 
-
 const app = createApp(App)
 
 app.use(createPinia())
